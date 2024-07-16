@@ -1,0 +1,8 @@
+0 Sparrow
+1 Pigeon
+2 Tit
+3 Bullfinch
+4 Crow
+5 Woodpecker
+6 Owl
+7 Eagle
